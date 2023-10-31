@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/highcharts/highcharts/issues"
+  },
+  "dependencies": {},
+  "description": "",
+  "homepage": "https://github.com/highcharts/highcharts#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "highcharts",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:highcharts/highcharts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" \u0026\u0026 exit 1"
+  },
+  "version": "1.0.0"
+}
